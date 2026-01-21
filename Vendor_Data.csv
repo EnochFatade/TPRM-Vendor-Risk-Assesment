@@ -1,0 +1,11 @@
+vendor_id,vendor_name,service_type,data_access,access_level,regulatory_impact,incident_history,availability_critical,notes
+1,CloudPay,Payroll,Yes,High,High,Yes,High,Store Employee PII
+2,SecureDocs LLC,Document Mgmt,Yes,Medium,High,No,Medium,Cintract Repository
+3,RetailSoft Inc,POS Software,No,Low,Medium,No,Low,No sensitive data
+4,DataBridge Corp,Data Integration,Yes,High,High,Yes,High,API access to systems
+5,LogiTrack,Logistics,No,Low,Low,No,Medium,Delivery Scheduling
+6,HelpDeskNow,IT Support,Yes,Medium,Medium,No,High,Ticketing Sytem
+7,MarketPulse,Analytics,Yes,Medium,Medium,No,Medium,Reporting Vendor
+8,IdentityGate,IAM,Yes,High,High,No,High,Access Management
+9,Mailsend Pro,Email,Yes,Low,Medium,No,Medium,Marketing Emails
+10,VaultStore,Cloud Storage,Yes,High,High,Yes,High,Storage + backups
